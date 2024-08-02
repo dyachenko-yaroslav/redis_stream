@@ -12,7 +12,7 @@ Gem::Specification.new do |spec|
   spec.description = "Redis Stream is a lightweight Redis Stream client for Ruby. It provides a simple API to publish and subscribe to Redis Streams."
   spec.homepage = "https://github.com/test-IO/redis_stream"
   spec.license = "MIT"
-  spec.required_ruby_version = ">= 3.0.0"
+  spec.required_ruby_version = ">= 2.7.7"
 
   spec.metadata["allowed_push_host"] = "https://rubygems.org"
 
